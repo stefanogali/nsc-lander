@@ -1,49 +1,5 @@
 import Image from "next/image";
-import Search from "@/public/icons/search";
-
-function Navigation() {
-	return (
-		<nav>
-			<ul className="flex items-center gap-5">
-				<li>
-					<a className="cursor-pointer">Who we are</a>
-				</li>
-				<li>
-					<a className="cursor-pointer">What we do</a>
-				</li>
-				<li>
-					<a className="cursor-pointer">Service Portfolio</a>
-				</li>
-				<li>
-					<a className="cursor-pointer">Case studies</a>
-				</li>
-				<li>
-					<a className="cursor-pointer">Partners</a>
-				</li>
-				<li>
-					<a className="cursor-pointer">Careers</a>
-				</li>
-				<li>
-					<a className="cursor-pointer">Work with us</a>
-				</li>
-				<li>
-					<a className="cursor-pointer">Partners</a>
-				</li>
-				<li>
-					<a className="cursor-pointer">Contact</a>
-				</li>
-				<li>
-					<a className="cursor-pointer">English</a>
-				</li>
-				<li>
-					<a className="cursor-pointer">
-						<Search width="24" height="24" />
-					</a>
-				</li>
-			</ul>
-		</nav>
-	);
-}
+import Navigation from "./Navigation";
 
 export default function Header() {
 	return (
