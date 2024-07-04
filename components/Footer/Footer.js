@@ -6,8 +6,8 @@ export default function Footer() {
 		<footer className="w-full">
 			<div className="w-full bg-light-grey">
 				<div className="template-max-width mx-auto py-6 px-2.5 flex gap-5">
-					<Button>Learn More</Button>
-					<Button>Request a demo link</Button>
+					<Button className="bg-light-blue">Learn More</Button>
+					<Button className="bg-light-blue">Request a demo link</Button>
 				</div>
 			</div>
 			<div className="w-full bg-blue">
