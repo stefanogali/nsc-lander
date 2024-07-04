@@ -8,7 +8,6 @@ export default function StrengthPoints() {
 			<div className="template-max-width mx-auto px-2.5">
 				<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
 					{bgImages.map((image, index) => {
-						console.log(image);
 						return <ImageCard key={index} src={image} />;
 					})}
 				</div>
