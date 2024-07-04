@@ -4,13 +4,13 @@ The live project can be found at [https://nsc-lander.vercel.app/](https://nsc-la
 
 ## Getting Started
 
-First, clone the repo
+First, clone or fork the repo
 
 ```bash
 https://github.com/stefanogali/nsc-lander.git
 ```
 
-then install the dependencies with
+then navigate to your folder and install the dependencies with
 
 ```bash
 npm install
