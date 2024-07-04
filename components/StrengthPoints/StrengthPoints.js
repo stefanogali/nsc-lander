@@ -1,6 +1,6 @@
 import ImageCard from "../UI/ImageCard/ImageCard";
 
-const bgImages = ["bg-strengthOne", "bg-strength2", "bg-strength3", "bg-strength4"];
+const bgImages = ["bg-strength1", "bg-strength2", "bg-strength3", "bg-strength4"];
 
 export default function StrengthPoints() {
 	return (

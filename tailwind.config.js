@@ -17,7 +17,7 @@ module.exports = {
 		extend: {
 			backgroundImage: {
 				hero: "url('/images/Cisco_Banner.png')",
-				strengthOne: "url('/images/Driving_Differentiation.png')",
+				strength1: "url('/images/Driving_Differentiation.png')",
 				strength2: "url('/images/Customer_Journey.png')",
 				strength3: "url('/images/Distribution.png')",
 				strength4: "url('/images/Transforming_Retail.png')",
